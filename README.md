@@ -76,9 +76,6 @@ DocuMind-AI-RAG/
 ├── requirements.txt
 └── README.md
 ```
-
-> `.venv/` is used locally and should not be uploaded to GitHub.
-
 ## ⚙️ Installation
 
 ### 1. Clone the repository
